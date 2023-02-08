@@ -5,6 +5,8 @@
     git add- colocou o nome do arquivo, para colocar o arquivo criado dentro da área de staging
     git commit -m = mensagem do commit para de fato comitar.
     master- main (estão migrando para nova nomenclatura) ($ git branch -M "main")
+    branch- ramificação do projeto
+    
 ] -->
 
 Olá, esse projeto ensina você a usar o Git.
